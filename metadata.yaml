@@ -1,0 +1,26 @@
+_repo: The-flowers-and-gardens-of-Japan_56254
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Du Cane, Ella
+    alias: Cane, Ella Du
+    gutenberg_agent_id: '34838'
+    url: http://www.gutenberg.org/2009/agents/34838
+creator:
+  author:
+    agent_name: Cane, Florence Du
+    gutenberg_agent_id: '48744'
+    url: http://www.gutenberg.org/2009/agents/48744
+description: ''
+gutenberg_issued: '2017-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56254'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The flowers and gardens of Japan
+url: http://www.gutenberg.org/ebooks/56254
